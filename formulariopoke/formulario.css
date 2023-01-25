@@ -1,0 +1,13 @@
+body{
+    color:#77dd77;
+    text-align: center;
+    text-decoration: none;
+    background: url(fondo1.webp) ;
+    background-size: 100%;
+    font-size: 30px;
+    
+}
+
+.label{
+    font-size: 83px;
+}
